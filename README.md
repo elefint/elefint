@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elefint
-- 👀 I’m interested in ASP, C#, Go, Python and reluctantly javascript
-- 🌱 I’m currently learning Go
+- 👀 I’m interested in ASP, C#, and reluctantly javascript
+- 🌱 I’m currently learning different design patterns and microservices.
 
 <!---
 elefint/elefint is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
