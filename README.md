@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @elefint
-- 👀 I’m interested in ASP, C#, and reluctantly javascript
+- 👀 I’m interested in Dotnet, C#, and reluctantly javascript
 - 🌱 I’m currently learning different design patterns and microservices.
 
 <!---
